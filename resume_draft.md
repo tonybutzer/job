@@ -1,6 +1,6 @@
     Tony Butzer
     4416 Ash Grove
-    Sioux Falls SD 57103
+    Sioux Falls, SD 57103
     tonybutzer@gmail.com
     605-254-7112
 
@@ -17,15 +17,68 @@ Professional Experience:
    - Implemented best practices for cloud security, including IAM policies, VPC configurations, and encryption standards.
    - Automated deployment processes using mostly Terraform and managed infrastructure as code.
 
-2. **Python Developer | KBR Inc, Sioux Falls, SD | January 2020 - Present**
+2. **Python Developer | KBR Inc., Sioux Falls, SD | January 2020 - Present**
    - Developed and maintained Python applications to support satellite image assessments, with a focus on efficiency and scalability.
    - Integrated third-party APIs and services to enhance system functionality.
    - Collaborated with DevOps teams to streamline continuous integration and continuous deployment (CI/CD) processes.
    - Conducted code reviews and provided mentorship to junior developers.
 
+3. **Python Developer and Docker Engineer | KBR Inc., Sioux Falls, SD| August 2017 - January 2020**
+   - Developed data cube ingest and visualization jupyter notebooks for Landsat and Sentinel Imagery
+   - Stood up jupyter hubs for training scientists and engineers on using libraries for long time series exploitation.
+        - https://www.opendatacube.org/
+
+4. **On-premise Network Engineer | KBR Inc. Sioux Falls | February 2010 - June 2017
+
+- **Planned, Coordinated, and Facilitated Data and Management Networks:**
+  - Orchestrated all facets of data and management networks, optimizing costs and enhancing network flows.
+  - Achieved a daily data processing milestone of over 40,000 Landsat Scenes and managed the daily movement of over 2 petabytes of network flows from custom distributed file systems.
+
+- **Procurement and Technology Lifecycle Management:**
+  - Managed procurements and orchestrated technology life-cycles for switches and firewalls within application-specific Ethernet broadcast domains.
+
+- **Collaboration with SMEs for Seamless Network Enhancements:**
+  - Collaborated closely with Subject Matter Experts (SMEs) to seamlessly coordinate network enhancements.
+  - Resulted in improved network continuity, increased reliability, and enhanced performance without significant expenditures.
+
+- **Cross-Project Communication and Issue Resolution:**
+  - Promoted cross-project and intra-project communication, facilitating timely resolution of complex application issues.
+  - Provided training on various technologies and developed custom scripts for simulated Landsat 8 data and optimization of the DCRS application.
+
+- **Integral Role in Landsat Infrastructure Team:**
+  - Integral part of the Landsat Infrastructure Team, contributing to enhanced visibility of network and operating system elements.
+  - Resulted in a well-planned consolidation strategy and a highly secure architecture for systems.
+
+**Summary of Qualifications:**
+- **Network Optimization and Active Monitoring:**
+  - Substantially improved serviceability, reliability, and performance of core data networks and connected servers.
+  - Actively monitored and audited all aspects, ensuring aesthetics and reinforcing overall network and server health.
+
+- Planned, coordinated, and facilitated all aspects of data and management networks optimizing costs and network flows resulting in data processing of over 40,000 Landsat Scenes/day and daily movements of over 2 petabytes of network flows from custom distributed file systems.
+- Managed procurements and orchestrated technology life-cycles for switches and firewalls for several application specific Ethernet broadcast domains.
+- Worked hand-in-hand with SMEs to coordinate network enhancements in a seamless, transparent fashion resulting in complete continuity of network operations and at the same time increasing reliability and performance without significant expenditures.
+- Promoted cross-project and intra-project communication for timely resolution of complex application issues. Provided training on numerous technologies and crafted custom scripts for fixing simulated Landsat 8 data and for improving and renovating the DCRS application, specifically data transfer tuning from Svalbard and Gilmore Creek.
+- Worked as an integral part of the Landsat Infrastructure Team to improve the overall visibility of network and operating system elements resulting in a solid set of systems, a well planned consolidation strategy and an architecture [set of systems] that are now effortlessly highly secure.
+ummary of qualifications
+- Substantially improved the serviceability, reliability, performance, aesthetics and actively monitored/audited all aspects of the core data networks and servers connected.
+
+
 Education:
 
-- **Bachelor of Science in Computer Engineering | [Iowa State Univeristy], Ames, IA 
+- **Bachelor of Science in Computer Engineering | [Iowa State Univeristy], Ames, IA**
+
+Summary of Job Roles:
+
+* Linux System Administration (Red Hat / Centos)
+* Infrastructure (full stack) Engineering
+* Network Engineering and Administration
+* Project Management
+* Systems Engineering and Technology Lifecycle Management
+* Software Development
+* College Professor (Augustana College)
+* Solutions Architect
+* CISSP (WIP)
+
 
 Skills:
 
