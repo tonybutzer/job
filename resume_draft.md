@@ -31,8 +31,8 @@ Skills:
 
 - **Cloud Technologies:** AWS (EC2, S3, AWS Batch, AWS Parallel Cluster.)
 - **Programming Languages:** Python, JavaScript
-- **Database Management:** Amazon RDS, DynamoDB, MySQL
-- **Automation and Deployment:** AWS CloudFormation, Terraform
+- **Database Management:** Postgresql, MySQL
+- **Automation and Deployment:** AWS CloudFormation, Terraform, Parallel Cluster YAML
 - **Networking:** VPCs, Route 53, CloudFront
 - **Security:** IAM, Key Management Service (KMS), Security Groups
 - **Tools:** Git, Jenkins, Docker
