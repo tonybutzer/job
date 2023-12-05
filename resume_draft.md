@@ -54,14 +54,6 @@ Professional Experience:
   - Substantially improved serviceability, reliability, and performance of core data networks and connected servers.
   - Actively monitored and audited all aspects, ensuring aesthetics and reinforcing overall network and server health.
 
-- Planned, coordinated, and facilitated all aspects of data and management networks optimizing costs and network flows resulting in data processing of over 40,000 Landsat Scenes/day and daily movements of over 2 petabytes of network flows from custom distributed file systems.
-- Managed procurements and orchestrated technology life-cycles for switches and firewalls for several application specific Ethernet broadcast domains.
-- Worked hand-in-hand with SMEs to coordinate network enhancements in a seamless, transparent fashion resulting in complete continuity of network operations and at the same time increasing reliability and performance without significant expenditures.
-- Promoted cross-project and intra-project communication for timely resolution of complex application issues. Provided training on numerous technologies and crafted custom scripts for fixing simulated Landsat 8 data and for improving and renovating the DCRS application, specifically data transfer tuning from Svalbard and Gilmore Creek.
-- Worked as an integral part of the Landsat Infrastructure Team to improve the overall visibility of network and operating system elements resulting in a solid set of systems, a well planned consolidation strategy and an architecture [set of systems] that are now effortlessly highly secure.
-ummary of qualifications
-- Substantially improved the serviceability, reliability, performance, aesthetics and actively monitored/audited all aspects of the core data networks and servers connected.
-
 
 Education:
 
@@ -69,6 +61,8 @@ Education:
 
 Summary of Job Roles:
 
+* AWS Cloud Solutions Architect
+* Python Scalable Solutions Developer
 * Linux System Administration (Red Hat / Centos)
 * Infrastructure (full stack) Engineering
 * Network Engineering and Administration
