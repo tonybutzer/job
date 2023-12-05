@@ -1,8 +1,8 @@
- Tony Butzer
- 4416 Ash Grove
- Sioux Falls SD 57103
- tonybutzer@gmail.com
- 605-254-7112
+    Tony Butzer
+    4416 Ash Grove
+    Sioux Falls SD 57103
+    tonybutzer@gmail.com
+    605-254-7112
 
 
 Objective:
